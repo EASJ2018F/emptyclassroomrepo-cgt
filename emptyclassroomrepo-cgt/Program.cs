@@ -10,6 +10,7 @@ namespace emptyclassroomrepo_cgt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, emptyclassroomrepo_cgt");
         }
     }
 }
